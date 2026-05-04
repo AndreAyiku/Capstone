@@ -71,8 +71,8 @@ emotional_chatbot_project/
 ├── requirements.txt                      # Python dependencies
 │
 ├── backend/
-│   ├── chatbot_complete.py               # EmotionalStateChatbot class (all 5 phases)
-│   └── chatbot.py                        # Chatbot interface
+│   └── chatbot_complete.py               # EmotionalStateChatbot class (all 5 phases)
+│   
 │
 ├── data/
 │   ├── news_stories.py                   # 10 happy + 10 sad real news stories
